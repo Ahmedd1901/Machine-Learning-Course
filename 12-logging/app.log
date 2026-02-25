@@ -1,0 +1,11 @@
+2026-02-11 05:20:37-root-DEBUG-This is a debug message
+2026-02-11 05:20:37-root-INFO-This is an info message
+2026-02-11 05:20:37-root-WARNING-This is a warning message
+2026-02-11 05:20:37-root-ERROR-This is an error message
+2026-02-11 05:20:37-root-CRITICAL-This is a critical message
+2026-02-11 05:23:23-root-DEBUG-testing
+2026-02-11 05:23:23-root-DEBUG-the addition operation is taking place
+2026-02-11 05:23:45-root-DEBUG-testing
+2026-02-11 05:23:45-root-DEBUG-the addition operation is taking place
+2026-02-11 05:24:50-root-DEBUG-testing
+2026-02-11 05:24:50-root-DEBUG-the addition operation is taking place
